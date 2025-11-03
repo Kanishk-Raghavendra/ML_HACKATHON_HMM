@@ -32,21 +32,6 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Running
--------
-
-Train the agent (example):
-
-```bash
-python train.py
-```
-
-Evaluate a model on `test.txt` (example):
-
-```bash
-python evaluate.py --model models/dqn_agent.pth --test-file test.txt
-```
-
 Data and evaluation notes
 -------------------------
 
