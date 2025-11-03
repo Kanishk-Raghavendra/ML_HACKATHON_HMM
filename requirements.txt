@@ -1,5 +1,7 @@
 numpy
+pandas
 torch
 matplotlib
-pandas
-notebook
+jupyter
+tqdm
+scikit-learn
